@@ -1,7 +1,10 @@
 ###  👋 Hi, I’m @plsyouarenotalone (Antx)
 - 👀 Tertarik Pada Artificial Intelegent
 - 🌱 Sedang Belajar Python
+- 🏠 Tinggal Di Jawa Tengah
 - 🤨 Gender: He/Him
+- 🤷‍♂️ Hobi: Nonton Anime, Main Game, (udh itu si kek nya)
+- 👨‍💻 Editor Text: Nvim (Termux)
 
 ### Pengenalan
 Halo Buat Kalian Yang Liat Ini <br>
