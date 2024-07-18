@@ -1,7 +1,13 @@
 ###  👋 Hi, I’m @plsyouarenotalone (Antx)
-- 👀 Interested in Artificial Intelegent
-- 🌱 Currently learning Python
-- 😄 Pronouns: He/Him
+- 👀 Tertarik Pada Artificial Intelegent
+- 🌱 Sedang Belajar Python
+- 🤨 Gender: He/Him
+
+### Pengenalan
+Halo Buat Kalian Yang Liat Ini <br>
+Kenalin Aku Antx, Seseorang Yang Baru Terjun Ke dunia Progaming, Aku Tertarik Pada Artificial Intelegent (AI)<br>
+Umurku 16 Tahun, Sekarang Aku Kelas 11, Aku Berasal Dari Jurusan RPL<br> <br> 
+<i>Mungkin Agak Telat Buat Belajar Ini, Karna Jujur Aku Males Malesan Pas Kelas 10 Kemarin :v <i/>
 
 <img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/pp.jpg" width="411" />
 
