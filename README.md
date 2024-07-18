@@ -11,8 +11,10 @@ Halo Buat Kalian Yang Liat Ini <br>
 Kenalin Aku Antx, Seseorang Yang Baru Terjun Ke dunia Progaming, Aku Tertarik Pada Artificial Intelegent (AI)<br>
 Umurku 16 Tahun, Sekarang Aku Kelas 11, Aku Berasal Dari Jurusan RPL<br> <br> 
 <i>Mungkin Agak Telat Buat Belajar Ini, Karna Jujur Aku Males Malesan Pas Kelas 10 Kemarin :v <i/>
+<br>Klo Dibilang Males Juga Ngga Bener, Aku Belajar Bahasa C++ <br>Cmn itu bahasa susah bet🗿, Jadi Ganti Bentar Ke Ular Python
 
 <img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/ss.webp" width="411" />
+<br>udh si segini aj
 
 
 
