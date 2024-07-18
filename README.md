@@ -4,7 +4,7 @@
 - 🏠 Tinggal Di Jawa Tengah
 - 🤨 Gender: He/Him
 - 🤷‍♂️ Hobi: Nonton Anime, Main Game, (udh itu si kek nya)
-- 👨‍💻 Editor Text: Nvim (Termux)
+- 👨‍💻 Editor Text: Nvim (Termux) (Polosan Wak Ngga Pake Config Apa")
 
 ### Pengenalan
 Halo Buat Kalian Yang Liat Ini <br>
