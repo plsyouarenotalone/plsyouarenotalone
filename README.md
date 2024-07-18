@@ -12,7 +12,7 @@ Kenalin Aku Antx, Seseorang Yang Baru Terjun Ke dunia Progaming, Aku Tertarik Pa
 Umurku 16 Tahun, Sekarang Aku Kelas 11, Aku Berasal Dari Jurusan RPL<br> <br> 
 <i>Mungkin Agak Telat Buat Belajar Ini, Karna Jujur Aku Males Malesan Pas Kelas 10 Kemarin :v <i/>
 
-<img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/pp.jpg" width="411" />
+<img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/ss.webp" width="411" />
 
 
 
