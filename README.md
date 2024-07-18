@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 
+<img align="left" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/pp.jpg" width="411" />
+
+
 
 <!---
 plsyouarenotalone/plsyouarenotalone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
