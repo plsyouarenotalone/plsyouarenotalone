@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @plsyouarenotalone
-- 👀 I’m interested in Artificial Intelegent
-- 🌱 I’m currently learning Python
+###  👋 Hi, I’m @plsyouarenotalone (Antx)
+- 👀 Interested in Artificial Intelegent
+- 🌱 Currently learning Python
 - 😄 Pronouns: He/Him
 
-<img align="left" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/pp.jpg" width="411" />
+<img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/pp.jpg" width="411" />
 
 
 
