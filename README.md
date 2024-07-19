@@ -18,7 +18,7 @@ _Mungkin Agak Telat Buat Belajar Ini, Karna Jujur Aku Males Malesan Pas Kelas 10
 
 <a href="#" onclick="return false;">
 <img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/ss.webp" alt="org males" width="411" />
-udh si segini aj
+
 
 
 
