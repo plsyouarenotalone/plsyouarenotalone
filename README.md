@@ -6,12 +6,12 @@
 - 🏠 Tinggal Di Jawa Tengah
 - 🤨 Gender: He/Him (Lanang)
 - 🤷‍♂️ Hobi: Nonton Anime, Main Game, (udh itu si kek nya)
-- 👨‍💻 Editor Text: Nvim (Termux) (Polosan Wak Ngga Pake Config Apa")
+- 👨‍💻 Editor Text: Neovim (Termux) (Polosan)
 - 📱 Device: Poco M3
 
 ### Pengenalan
 Halo Buat Kalian Semua Yang Liat Ini <br>
-Kenalin Aku Antx, Seseorang Yang Baru Terjun Ke dunia Progaming, Aku Tertarik Pada Artificial Intelegent (AI)<br>
+Kenalin Aku Antx, Seseorang Yang Baru Terjun Ke dunia Programmer, Aku Tertarik Pada Artificial Intelegent (AI)<br>
 Umurku 16 Tahun, Sekarang Aku Kelas 11, Aku Berasal Dari Jurusan RPL<br> <br> 
 _Mungkin Agak Telat Buat Belajar Ini, Karna Jujur Aku Males Malesan Pas Kelas 10 Kemarin :v_
 <br>Klo Dibilang Males Juga Ngga Bener, Aku Belajar Bahasa C++ <br>Cmn itu bahasa susah bet🗿, Jadi Ganti Bentar Ke Ular Python
