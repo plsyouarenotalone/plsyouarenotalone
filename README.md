@@ -4,9 +4,10 @@
 - 👀 Tertarik Pada Artificial Intelegent
 - 🌱 Sedang Belajar Python
 - 🏠 Tinggal Di Jawa Tengah
-- 🤨 Gender: He/Him
+- 🤨 Gender: He/Him (Lanang)
 - 🤷‍♂️ Hobi: Nonton Anime, Main Game, (udh itu si kek nya)
 - 👨‍💻 Editor Text: Nvim (Termux) (Polosan Wak Ngga Pake Config Apa")
+- 📱 Device: Poco M3
 
 ### Pengenalan
 Halo Buat Kalian Semua Yang Liat Ini <br>
