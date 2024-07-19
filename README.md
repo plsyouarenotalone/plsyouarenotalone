@@ -16,6 +16,7 @@ Umurku 16 Tahun, Sekarang Aku Kelas 11, Aku Berasal Dari Jurusan RPL<br> <br>
 _Mungkin Agak Telat Buat Belajar Ini, Karna Jujur Aku Males Malesan Pas Kelas 10 Kemarin :v_
 <br>Klo Dibilang Males Juga Ngga Bener, Aku Belajar Bahasa C++ <br>Cmn itu bahasa susah bet🗿, Jadi Ganti Bentar Ke Ular Python
 
+<a href="#" onclick="return false;">
 <img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/ss.webp" alt="org males" width="411" />
 udh si segini aj
 
